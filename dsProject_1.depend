@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1506011794 source:c:\users\deven\desktop\dsproject_1\list.cpp
+	<iostream>
+
+1506009216 source:c:\users\deven\desktop\dsproject_1\convert.cpp
+
+1505842834 c:\users\deven\desktop\dsproject_1\list.h
+	<iostream>
+
+1506464475 source:c:\users\deven\desktop\dsproject_1\main.cpp
+	<iostream>
+	"list.h"
+	"stack.h"
+
+1506009216 source:c:\users\deven damiano\desktop\dsproject_1\convert.cpp
+
+1506633533 source:c:\users\deven damiano\desktop\dsproject_1\list.cpp
+	<iostream>
+
+1506704853 source:c:\users\deven damiano\desktop\dsproject_1\main.cpp
+	<iostream>
+	"list.h"
+	"stack.h"
+
+1506635018 c:\users\deven damiano\desktop\dsproject_1\list.h
+	<iostream>
+
+1506435300 c:\users\deven damiano\desktop\dsproject_1\stack.h
+	<iostream>
+	"list.h"
+
+1506435298 c:\users\deven\desktop\dsproject_1\stack.h
+	<iostream>
+	"list.h"
+
