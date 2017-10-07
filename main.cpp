@@ -1,3 +1,8 @@
+//Deven Damiano - dad152 - 10/7/17
+//I know including all my structs and functions is bad programming, but for the sake of this class project I had to keep file amounts limited to one..
+//This program has the user input an expression in the format "A + B * C#", where '#' ends the ecpression, and each entered character must be separated by a single space
+//This expression will be converted to postfix, and the user will then have the option to enter values for variables and solve the expression.
+
 #include <iostream>
 
 using namespace std;
@@ -255,7 +260,7 @@ int main()
     {
 
     cout << "Please choose an operation:" << endl;
-    cout << "1) Enter an infix expression and convert to postfix" << endl;
+    cout << "1) Enter an infix expression and convert to postfix, each character entered must be followed by a space, and the expression must be finalized with a '#':" << endl;
     cout << "2) Evaluate expression" << endl;
     cout << "3) Exit" << endl;
 
